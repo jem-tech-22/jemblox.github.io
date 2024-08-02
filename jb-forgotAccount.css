@@ -1,0 +1,127 @@
+body {
+    font-size: 15pt;
+    text-align: center;
+    background-color: #2D2D2D;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+}
+
+.form-card {
+  background: #4F4F4F;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: fit-content;
+  padding: 2px;
+  border: 0px solid black;
+  border-radius: 10px;
+  padding-bottom: 10px;
+}
+
+.input-field input[type="text"],
+.input-field input[type="password"] {
+  border-radius: 8px;
+  border: 0px solid gray;
+  height: 40px;
+  width: 300px;
+  margin: 5px 12px 5px 12px;
+  padding-left: 12px;
+  margin-bottom: 0px;
+  background-color: #171717;
+  font-size: medium;
+  color: #FFFFFF;
+}
+
+.welcome {
+  color: #FFFFFF;
+  margin-bottom: 20px;
+  font-size: 33px;
+}
+
+.username {
+  color: #FFFFFF;
+  font-size: small;
+  margin: 0px;
+  margin-top: 5px;
+  margin-right: 240px;
+}
+
+.new-password {
+  color: #FFFFFF;
+  font-size: small;
+  margin: 0px;
+  margin-top: 20px;
+  margin-right: 215px;
+}
+
+.reset {
+   border-radius: 8px;
+   border: 0px solid gray;
+   height: 40px;
+   width: 250px;
+   margin: 20px 12px 5px 12px;
+   padding-left: 12px;
+   margin-bottom: 15px;
+   background-color: #4FA143;
+   color: #FFFFFF;
+   font-size: large;
+}
+
+.line {
+  border: 0.5px solid gray;
+  margin-left: 15px;
+  margin-right: 15px;
+  margin-top: 4px;
+  margin-bottom: 15px;
+}
+
+.login {
+  font-size: small;
+  color: #FFFFFF;
+  margin-bottom: 2px;
+  margin-top: 0px;
+  text-decoration: none;
+}
+
+.login-two {
+  font-size: small;
+  color: #FFFFFF;
+  margin-bottom: 2px;
+  margin-top: 0px;
+  text-decoration: none;
+}
+
+.about {
+  color: #FFFFFF;
+  margin-bottom: 10px;
+  font-size: 33px;
+}
+
+.message {
+  color: #FFFFFF;
+  font-size: medium;
+  margin: 2px 20px 20px 15px;
+}
+
+.contact {
+  font-size: small;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: #FFFFFF;
+}
+
+.logo {
+  margin-bottom: 0px;
+  color: #4F4F4F;
+  border: 0px solid white;
+}
+
+.loginPage {
+  font-size: large;
+  color: #FFFFFF;
+  margin-bottom: 0px;
+  text-decoration: none;
+}
